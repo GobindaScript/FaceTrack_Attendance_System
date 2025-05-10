@@ -45,6 +45,6 @@ python Attendance.py
 
 5.click 'o' for take Attendance.
 
-6.clik 'q' for Exit.
+6.click 'q' for Exit.
 
 7.Now Click on Attendance folder to track your attandance logs by date.
