@@ -30,7 +30,7 @@ FaceTrack-Attendance-System/
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YOUR-USERNAME/FaceTrack-Attendance-System.git
+git clone https://github.com/GobindaScript/FaceTrack-Attendance-System.git
 cd FaceTrack-Attendance-System
 
 2.Install dependencies:
